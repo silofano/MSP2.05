@@ -1,41 +1,41 @@
 {
   "tcp_alloc": {
     "allowed": 6,
-    "claimed": 2,
-    "desired": 2
+    "claimed": 1,
+    "desired": 1
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "never-childhood.gl.joinmc.link",
-          "assigned_srv": "never-childhood.gl.joinmc.link",
+          "assigned_domain": "journal-marking.gl.joinmc.link",
+          "assigned_srv": "journal-marking.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "6674795e-5456-4676-a019-d914d62333a5",
-          "ip_hostname": "20.ip.gl.ply.gg",
+          "id": "be2df9cc-4bee-4f92-8a95-8de8f1670d42",
+          "ip_hostname": "21.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 65425,
-          "port_start": 65424,
+          "port_end": 11405,
+          "port_start": 11404,
           "region": "global",
-          "static_ip4": "147.185.221.20",
-          "tunnel_ip": "2602:fbaf:0:1::14"
+          "static_ip4": "147.185.221.21",
+          "tunnel_ip": "2602:fbaf:0:1::15"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-14T20:37:28.639662Z",
+      "created_at": "2024-07-16T23:00:36.864843Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "0c943703-9b4e-4842-b250-0cc140bcc8d2",
+      "id": "386147e1-d7ca-4d19-b09e-2922b1bca62f",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "f68e6ffc-8f4a-4593-821a-8fbd68fa6dad",
-          "agent_name": "from-key-4486",
+          "agent_id": "48755ce4-fbad-468b-bb40-5b749d9ed23a",
+          "agent_name": "from-key-510a",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -49,56 +49,11 @@
       },
       "region": "global",
       "tunnel_type": "minecraft-java"
-    },
-    {
-      "active": true,
-      "alloc": {
-        "data": {
-          "assigned_domain": "driver-emphasis.gl.at.ply.gg",
-          "assigned_srv": null,
-          "assignment": {
-            "type": "shared-ip"
-          },
-          "id": "fd17c088-7772-4c70-9745-651d0252b002",
-          "ip_hostname": "21.ip.gl.ply.gg",
-          "ip_type": "both",
-          "port_end": 14923,
-          "port_start": 14922,
-          "region": "global",
-          "static_ip4": "147.185.221.21",
-          "tunnel_ip": "2602:fbaf:0:1::15"
-        },
-        "status": "allocated"
-      },
-      "created_at": "2024-07-14T21:11:23.648320Z",
-      "disabled_reason": null,
-      "domain": null,
-      "expire_notice": null,
-      "firewall_id": null,
-      "id": "e553731b-6981-42f3-8895-47bf553950c4",
-      "name": "voice chat",
-      "origin": {
-        "data": {
-          "agent_id": "f68e6ffc-8f4a-4593-821a-8fbd68fa6dad",
-          "agent_name": "from-key-4486",
-          "local_ip": "127.0.0.1",
-          "local_port": 14922
-        },
-        "type": "agent"
-      },
-      "port_count": 1,
-      "port_type": "both",
-      "ratelimit": {
-        "bytes_per_second": null,
-        "packets_per_second": null
-      },
-      "region": "global",
-      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 0,
+    "desired": 0
   }
 }

@@ -1,540 +1,485 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720993011384 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721171910903 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993014431 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171913978 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993017471 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171917023 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993020510 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171920076 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993023604 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171923126 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993026675 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171926163 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993029762 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171929210 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993032834 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171932297 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993035905 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171935381 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993038970 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171938488 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993042083 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171941613 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993045222 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171944674 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993048270 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171947729 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993051329 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171950789 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993054373 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171953902 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993057418 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171956954 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993060484 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171960029 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993063542 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171963095 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993066588 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171966140 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993069649 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171969177 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993072691 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171972223 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993075744 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171975283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993078789 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171978336 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993081873 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171981371 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993084931 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171984428 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993088018 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171987520 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993091082 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171990571 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993094151 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171993632 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993097197 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171996692 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993100259 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721171999746 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993103312 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172002801 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993106367 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172005908 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993109473 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172008989 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993112528 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172012029 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993115574 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172015087 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993118628 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172018124 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993121680 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172021162 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993124766 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172024245 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993127840 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172027296 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993130887 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172030382 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993133931 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172033454 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993136971 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172036510 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993140017 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172039562 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993143113 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172042685 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993146161 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172045748 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993149231 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172048797 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993152342 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172051844 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993155449 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172054977 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993158527 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172058038 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993161560 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172061108 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993164651 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172064163 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993167714 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172067222 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993170793 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172070262 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993173841 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172073323 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993176915 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172076382 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993179986 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172079427 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993183127 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172082469 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993186258 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172085567 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993189309 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172088621 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993192376 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172091673 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993195438 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172094734 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993198475 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172097810 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993201603 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172100866 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993204686 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172103918 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993207759 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172106963 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993210810 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172110032 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993213900 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172113079 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993216943 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172116120 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993219978 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172119187 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993223053 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172122248 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993226115 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172125294 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993229194 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172128361 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993232267 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172131436 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993235329 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172134499 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993238375 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172137565 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993241423 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172140625 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993244557 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172143671 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993247687 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172146792 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993250732 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172149844 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993253801 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172152920 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993256856 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172155984 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993259930 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172159076 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993262983 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172162122 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993266038 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172165193 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993269143 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172168269 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993272241 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172171325 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993275296 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172174386 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993278372 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172177441 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993281414 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172180543 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720993284476 tunnel running, 2 tunnels registered
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172183583 tunnel running, 1 tunnels registered
 
 
 TUNNELS
-never-childhood.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-driver-emphasis.gl.at.ply.gg:14922 => 127.0.0.1:14922 (proto: Both, port count: 1)
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172186635 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172189695 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172192757 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172195821 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172198906 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172201961 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721172205012 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
