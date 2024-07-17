@@ -1,485 +1,1170 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721171910903 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721174487761 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171913978 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174490856 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171917023 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174493898 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171920076 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174496959 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171923126 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174500022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171926163 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174503099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171929210 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174506200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171932297 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174509309 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171935381 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174512444 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171938488 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174515519 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171941613 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174518560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171944674 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174521612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171947729 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174524675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171950789 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174527739 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171953902 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174530789 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171956954 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174533825 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171960029 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174536873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171963095 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174539911 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171966140 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174543106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171969177 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174546168 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171972223 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174549212 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171975283 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174552303 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171978336 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174555363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171981371 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174558431 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171984428 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174561574 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171987520 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174564675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171990571 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174567793 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171993632 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174571050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171996692 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174574106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721171999746 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174577178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172002801 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174580240 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172005908 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174583278 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172008989 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174586377 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172012029 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174589436 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172015087 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174592632 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172018124 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174595692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172021162 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174598773 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172024245 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174601809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172027296 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174604968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172030382 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174608043 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172033454 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174611132 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172036510 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174614195 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172039562 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174617407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172042685 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174620594 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172045748 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174623644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172048797 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174626679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172051844 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174629746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172054977 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174632833 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172058038 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174635912 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172061108 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174639191 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172064163 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174642262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172067222 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174645311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172070262 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174648501 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172073323 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174651614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172076382 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174654667 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172079427 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174657780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172082469 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174660853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172085567 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174663937 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172088621 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174667024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172091673 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174670397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172094734 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174673468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172097810 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174676571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172100866 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174679672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172103918 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174682708 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172106963 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174685816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172110032 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174688964 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172113079 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174692158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172116120 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174695196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172119187 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174698243 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172122248 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174701382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172125294 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174704709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172128361 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174707836 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172131436 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174710909 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172134499 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174713951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172137565 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174717017 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172140625 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174720114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172143671 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174723174 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172146792 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174726514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172149844 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174729688 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172152920 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174732777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172155984 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174735914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172159076 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174738968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172162122 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174742005 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172165193 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174745069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172168269 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174748187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172171325 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174751254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172174386 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174754449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172177441 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174757620 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172180543 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174760701 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172183583 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174763763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172186635 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174766821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172189695 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174769891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172192757 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174773016 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172195821 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174776099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172198906 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174779187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172201961 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174782237 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721172205012 tunnel running, 1 tunnels registered
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174785299 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174788350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174791419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174794462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174797523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174800615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174803705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174806790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174809839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174812936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174815998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174819044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174822105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174825245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174828322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174831412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174834454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174837488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174840554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174843623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174846723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174849786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174852844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174855896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174858947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174862027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174865077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174868140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174871217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174874274 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174877332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174880416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174883499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174886538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174889618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174892684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174895995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174899046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174902117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174905172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174908225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174911334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174914425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174917526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174920601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174923659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174926718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174929772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174932804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174935859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174938979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174942252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174945316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174948374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174951410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174954449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174957491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174960529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174963604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174966670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174969741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174972791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174975845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174978897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174981950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174985021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174988113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174991152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174994202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721174997259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175000320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175003519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175006584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175009659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175012706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175015780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175018838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175021929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175025040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175028085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175031127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175034339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175037426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175040505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175043587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175046684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175049736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175052801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175055858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175058921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175062005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175065046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175068097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175071159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175074258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175077294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175080360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175083405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721175086489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+journal-marking.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+prev-threatened.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
